@@ -1,2 +1,2 @@
-../../build/bin/geth
+../../build/bin/cpchain
 cpchain
